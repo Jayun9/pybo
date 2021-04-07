@@ -1,0 +1,6 @@
+myste_1/settings.py
+.idea/*
+venv
+common/__pycache__/*
+pybo/__pycache__/*
+myste_1/__pycache__/*
